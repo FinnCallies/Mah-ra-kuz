@@ -4,16 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "279e82464e6c5256",
+        "id": "06f72295c2c25c25",
         "type": "tabs",
         "children": [
           {
-            "id": "8f7ed8198439249d",
+            "id": "eaa853e322554ff8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1b46dbc74dd88f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backstory Regeln.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "940e319194e6e9d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,6 +170,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f7ed8198439249d",
-  "lastOpenFiles": []
+  "active": "eaa853e322554ff8",
+  "lastOpenFiles": [
+    "Backstory Regeln.md",
+    "Setting.md",
+    "README.md"
+  ]
 }

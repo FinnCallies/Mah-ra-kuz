@@ -1,0 +1,13 @@
+- Backstory max 1 Seite (reichen auch Stichpunkte)
+- Ihr könnt Gottheiten und Ortsnamen auslassen und generisch beschreiben
+	- Beispiel: Ich huldige dem Gott des Lichts
+	- Beispiel: geboren in kleinem Fischerdorf an der Küste
+- Wenn ihr gute Namen habt könnt ihr die natürlich gerne nutzen (wenn sie ins setting passen)
+- Wichtig ist einfach, dass man anhand von irgendwas eueren Heimatort identifizieren kann (Geographische Details, bekannt für bestimmten Handel (Beispiel: Zwerge Silber), ...)
+- Warum zieht ihr auf Abenteuer aus und verlasst euren Heimatort? Vielleicht schon lange auf Reisen oder aber erst sehr kurz
+- Überlegt euch wie euer Charakter aussieht. Welche Kleidung, markante Gesichtszüge, irgendwelche Auffälligkeiten
+- Ihr findet hier -> https://www.gmbinder.com/share/-L-9CvlTWhoADagJfSZO etwas was ich noch gerne aufnehmen würde. Das sind quasi Story hooks für mich die ich irgendwann innerhalb der Kampagne nutzen kann um eine Verbindung zwischen den aktuellen Ereignissen und euren Charakteren zu machen. Ich hätte gerne von jedem mindestens 5 und maximal 12
+- Für eure Backstory könnt ihr auch Fraktionen etc erschaffen, die den Setting Regeln natürlich folgen. (Details zu erfundenen Fraktionen zählen nicht in das Backstory Seitenlimit mit rein)
+- Wichtig: tobt euch aus! (Das werde ich vielleicht bereuen aber okay...)
+- Schickt mir die Backstory privat
+- Ich habe dann eventuelle Anmerkungen oder Ideen
